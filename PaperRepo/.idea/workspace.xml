@@ -19,8 +19,8 @@
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -35,32 +35,32 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="1440" />
+          <entry key="html" value="2316" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="1440" />
+          <entry key="HTML" value="2316" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/indexPaperRepo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="352">
+              <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../projects/Symmetry2018/indexSymmetry.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="60" column="43" selection-start-line="60" selection-start-column="43" selection-end-line="60" selection-end-column="43" />
+            <state relative-caret-position="631">
+              <caret line="73" column="31" lean-forward="true" selection-start-line="73" selection-start-column="31" selection-end-line="73" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -78,8 +78,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/indexPaperRepo.html" />
         <option value="$PROJECT_DIR$/../projects/Symmetry2018/indexSymmetry.html" />
+        <option value="$PROJECT_DIR$/indexPaperRepo.html" />
       </list>
     </option>
   </component>
@@ -90,8 +90,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="1093" />
+    <option name="x" value="575" />
+    <option name="y" value="127" />
+    <option name="width" value="1357" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -145,16 +146,18 @@
       <workItem from="1542373203299" duration="2903000" />
       <workItem from="1542701086571" duration="274000" />
       <workItem from="1542701513765" duration="142000" />
+      <workItem from="1543372268995" duration="1259000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4132000" />
+    <option name="totallyTimeSpent" value="5391000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1093" height="1047" extended-state="0" />
+    <frame x="979" y="63" width="1357" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28219697" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09318182" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -180,17 +183,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/indexPaperRepo.html">
+    <entry file="file://$PROJECT_DIR$/../projects/Symmetry2018/indexSymmetry.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="631">
+          <caret line="73" column="31" lean-forward="true" selection-start-line="73" selection-start-column="31" selection-end-line="73" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../projects/Symmetry2018/indexSymmetry.html">
+    <entry file="file://$PROJECT_DIR$/indexPaperRepo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="60" column="43" selection-start-line="60" selection-start-column="43" selection-end-line="60" selection-end-column="43" />
+        <state relative-caret-position="352">
+          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
         </state>
       </provider>
     </entry>
