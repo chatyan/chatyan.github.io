@@ -31,6 +31,99 @@
 
 <!-- main part -->
 <tr>
+    <td><img src="./PaperImg/Fabrication-aware.PNG" width="180"></td>
+    <td><b>State of the Art in Methods and Representations for Fabrication-Aware Design</b><br>
+        Amit H. Bermano (2017 <b>Eurographics REVIEW</b>)
+        (<b></b>,) - 2018.11.18<br> <br>
+        <b>Ab:</b>
+        Computational manufacturing technologies such as 3D printing hold the potential for creating objects with previously
+        undreamed-of combinations of functionality and physical properties. Human designers, however, typically cannot exploit the
+        full geometric (and often material) complexity of which these devices are capable. This STAR examines recent systems developed
+        by the computer graphics community in which designers specify higher-level goals ranging from structural integrity and
+        deformation to appearance and aesthetics, with the final detailed shape and manufacturing instructions emerging as the result
+        of computation. It summarizes frameworks for interaction, simulation, and optimization, as well as documents the range of
+        general objectives and domain-specific goals that have been considered. An important unifying thread in this analysis is that
+        different underlying geometric and physical representations are necessary for different tasks: we document over a dozen classes
+        of representations that have been used for fabrication-aware design in the literature. We analyze how these classes possess
+        obvious advantages for some needs, but have also been used in creative manners to facilitate unexpected problem solutions.
+</tr>
+
+
+<tr>
+    <td><img src="./PaperImg/Linkage.PNG" width="180"></td>
+    <td><b>Deployable 3D Linkages with Collision Avoidance</b><br>
+        Changxi Zheng (2016 <b>Siggraph</b>)
+        (<b></b>,) - 2018.11.17<br> <br>
+        <b>Ab:</b>
+        We present a pipeline that allows ordinary users to create deployable scissor linkages in arbitrary 3D shapes, whose mechanisms
+        are inspired by Hoberman’s Sphere. From an arbitrary 3D model and a few user inputs, our method can generate a fabricable
+        scissor linkage resembling that shape that aims to save as much space as possible in its most contracted state. Self-collisions are
+        the primary obstacle in this goal, and these are not addressed in prior work. One key component of our algorithm is a succinct
+        parameterization of these types of linkages. The fast continuous collision detection that arises from this parameterization serves
+        as the foundation for the discontinuous optimization procedure that automatically improves joint placement for avoiding collisions.
+        While linkages are usually composed of straight bars, we consider curved bars as a means of improving the contractibility.
+        To that end, we describe a continuous optimization algorithm for locally deforming the bars.
+</tr>
+
+
+
+<tr>
+    <td><img src="./PaperImg/Mechanical%20Objects.PNG" width="180"></td>
+    <td><b>Interactive Modeling of Mechanical Objects</b><br>
+        Francisca Gil Ureta et al. (2016 <b>Eurographics Symposium on Geometry Processing</b>)
+        (<b></b>,) - 2018.11.16<br> <br>
+        <b>Ab:</b>
+        Our system minimizes or, in most cases, completely eliminates the need for the user to manipulate
+        low-level geometry of joints. This is achieved by automatically inferring a small number of
+        plausible combinations of joint dimensions, placement and orientation from part geometry, with the
+        user making the final high-level selection based on object semantic.
+        Through user studies, we demonstrate that functional results with a satisfying appearance can be
+        obtained quickly by users with minimal modeling experience, offering a significant improvement in the time
+        required for joint construction, compared to standard modeling approaches.
+</tr>
+
+
+<tr>
+    <td><img src="./PaperImg/Furniture.PNG" width="180"></td>
+    <td><b>Foldabilitzing Furniture</b><br>
+        Honghua Li (2015 <b>Siggraph</b>)
+        (<b></b>,) - 2018.11.15<br> <br>
+        <b>Ab:</b> We introduce the foldabilization problem for space-saving furniture design.
+        Namely, given a 3D object representing a piece of furniture, our goal is to apply a minimum amount of
+        modification to the object so that it can be folded to save space --- the object is thus foldabilized.
+        We focus on one instance of the problem where folding is with respect to a prescribed folding direction and
+        allowed object modifications include hinge insertion and part shrinking.
+
+        We develop an automatic algorithm for foldabilization by formulating and solving a nested optimiation problem
+        operating at two granularity levels of the input shape. Specifically, the input shape is first partitioned into
+        a set of integral folding units.
+        For each unit, we construct a graph which encodes conflict relations, e.g., collisions, between foldings implied by
+        various patch foldabilizations within the unit.
+        Finding a minimum-cost foldabilization with a conflict-free folding is an instance of the maximum-weight independent set problem.
+        In the outer loop of the optimization, we process the folding units in an optimized ordering where the units are sorted based on
+        estimated foldabilization costs. We show numerous foldablization results computed at interactive speed and
+        3D-print physical prototypes of these results to demonstrate manufacturability.
+</tr>
+
+<tr>
+    <td><img src="./PaperImg/NatureL.PNG" width="180"></td>
+    <td><b>Origami structures with a critical transition to bistability arising from hidden degrees of freedom</b><br>
+        Jesse L. Silverberg et al. (2015 <b>Nature materials</b>)
+        (<b></b>,) - 2018.11.14<br> <br>
+        <b>Ab:</b>Origami is used beyong purely aesthetic pursuits to design responsive and customizable
+        mechanical metamaterials. However, a generalized physical understanding of origami remains elusive,
+        owing to the challenge of determining whether local kinematic constraints are globally compatible and to an
+        incomplete understanding of how the folded sheet's material properties contribute to the overall
+        mechanical response. Here, we show that the traditional square twist, whose crease pattern has zero degrees of freedom
+        and therefore should not be foldable, can nevertheless be folded by accessing bending deformations
+        that are not explicit in the crease pattern. These hidden bending DOF are separated from the crease DOF by an
+        energy gap that gives rise to a geometrically driven critical bifurcation between mono- and bistability.
+        Noting its potential utility for fabricating mechanical switches, we use a temperature-responsive polymer-gel
+        version of the square twist to demonstrate hysteretic folding dynamics at the sub-millimetre scale.
+</tr>
+
+
+<tr>
     <td><img src="./PaperImg/ReviewMaterial.PNG" width="180"></td>
     <td><b>Assembly of Advanced Materials into 3D Functional Structures by Methods Inspired by Origami and Kirigami: A Review</b><br>
         Xin Ning et al. (2018 <b>Advanced Materials</b>)
